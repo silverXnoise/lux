@@ -1,0 +1,21 @@
+[submodule "inc/ola"]
+	path = inc/ola
+	url = https://github.com/silverXnoise/lux-ola
+[submodule "inc/midimonster"]
+	path = inc/midimonster
+	url = https://github.com/silverXnoise/midimonster
+[submodule "inc/PyDMXControl"]
+	path = inc/PyDMXControl
+	url = https://github.com/silverXnoise/lux-PyDMXControl
+[submodule "inc/luxpy"]
+	path = inc/luxpy
+	url = https://github.com/silverXnoise/luxpy
+[submodule "inc/cedarserver"]
+	path = inc/cedarserver
+	url = https://github.com/silverXnoise/lux-cedarserver
+[submodule "inc/glight"]
+	path = inc/glight
+	url = https://github.com/silverXnoise/lux-glight
+[submodule "inc/qlcplus"]
+	path = inc/qlcplus
+	url = https://github.com/silverXnoise/lux-qlcplus
